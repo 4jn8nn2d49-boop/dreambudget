@@ -1,0 +1,9 @@
+DreamBudget – GitHub Pages
+
+1. Auf github.com ein neues PUBLIC Repository erstellen, z. B. dreambudget.
+2. Alle Dateien aus diesem ZIP ins Stammverzeichnis des Repository hochladen (nicht den ZIP selbst).
+3. Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+4. Die veröffentlichte HTTPS-Adresse in Safari auf dem iPhone öffnen.
+5. Teilen > Zum Home-Bildschirm > Hinzufügen.
+
+Hinweis: Die App speichert Budgetdaten lokal auf dem jeweiligen Gerät. Keine automatische Synchronisierung. Bitte regelmässig ein Backup aus der App exportieren. Ein öffentliches GitHub Repository darf keine privaten Finanzdaten enthalten.
